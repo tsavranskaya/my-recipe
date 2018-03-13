@@ -1,4 +1,4 @@
-Ingredients
+## Ingredients
 1/4 cup red onion, diced
 1 jalapeño pepper, seeded and minced
 1 small bunch of cilantro, chopped (about 1 cup, packed)
@@ -8,12 +8,11 @@ Salt and pepper to taste
 juice of 1 lime
 
 
-Preparation
-1
-Combine all ingredients in a medium bowl. Mix well with a spoon and serve with tortilla chips or use it as toppings for seafood.
-Serving
-yammi
+## Preparation
+- Combine all ingredients in a medium bowl. 
+- Mix well with a spoon and serve with tortilla chips or use it as toppings for seafood.
+## Serving
 
-eating
+## Eating
 
 ![photo](http://www.foodista.com/sites/default/files/Mango-Avocado-Salsa-5.jpg)
