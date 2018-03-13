@@ -15,3 +15,5 @@ Serving
 yammi
 
 eating
+
+![photo]http://www.foodista.com/sites/default/files/Mango-Avocado-Salsa-5.jpg)
